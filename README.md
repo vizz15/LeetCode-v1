@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vizz15/LeetCode-v1/tree/master/0009-palindrome-number) |
 ## String
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
