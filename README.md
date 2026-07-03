@@ -11,15 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vizz15/LeetCode-v1/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vizz15/LeetCode-v1/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vizz15/LeetCode-v1/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vizz15/LeetCode-v1/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vizz15/LeetCode-v1/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
