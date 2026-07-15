@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vizz15/LeetCode-v1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vizz15/LeetCode-v1/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vizz15/LeetCode-v1/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
