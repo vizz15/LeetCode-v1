@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vizz15/LeetCode-v1/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vizz15/LeetCode-v1/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vizz15/LeetCode-v1/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vizz15/LeetCode-v1/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vizz15/LeetCode-v1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
