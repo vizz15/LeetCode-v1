@@ -1,0 +1,17 @@
+def isPalindrome(s: str) -> bool:
+    st=list(s)
+    lis1=[]
+    for i in st:
+        if i==" ":
+            del i
+        elif i.isalpha():
+            lis1.append(i)
+            
+    str1=""
+    str1=str(lis1)
+    if str1=="":
+        return True
+    else:
+        return str1.lower()==str1[::-1]
+        
+print(isPalindrome(" ")) 
