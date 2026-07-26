@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vizz15/LeetCode-v1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vizz15/LeetCode-v1/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vizz15/LeetCode-v1/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
