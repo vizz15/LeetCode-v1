@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0387-first-unique-character-in-a-string) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3931-check-adjacent-digit-differences](https://github.com/vizz15/LeetCode-v1/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
 | ------- |
