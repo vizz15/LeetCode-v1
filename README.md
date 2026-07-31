@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vizz15/LeetCode-v1/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vizz15/LeetCode-v1/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
