@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vizz15/LeetCode-v1/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
