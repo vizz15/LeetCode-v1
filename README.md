@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vizz15/LeetCode-v1/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3931-check-adjacent-digit-differences](https://github.com/vizz15/LeetCode-v1/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vizz15/LeetCode-v1/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
