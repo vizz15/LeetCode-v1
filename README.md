@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vizz15/LeetCode-v1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/vizz15/LeetCode-v1/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vizz15/LeetCode-v1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vizz15/LeetCode-v1/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vizz15/LeetCode-v1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
