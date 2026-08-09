@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vizz15/LeetCode-v1/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vizz15/LeetCode-v1/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vizz15/LeetCode-v1/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
