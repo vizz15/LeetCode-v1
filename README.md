@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/vizz15/LeetCode-v1/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vizz15/LeetCode-v1/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vizz15/LeetCode-v1/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -163,14 +166,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -200,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vizz15/LeetCode-v1/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
