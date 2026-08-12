@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vizz15/LeetCode-v1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vizz15/LeetCode-v1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vizz15/LeetCode-v1/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vizz15/LeetCode-v1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vizz15/LeetCode-v1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vizz15/LeetCode-v1/tree/master/3731-find-missing-elements) |
 ## Math
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vizz15/LeetCode-v1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
