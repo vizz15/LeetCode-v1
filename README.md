@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vizz15/LeetCode-v1/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vizz15/LeetCode-v1/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vizz15/LeetCode-v1/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vizz15/LeetCode-v1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vizz15/LeetCode-v1/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vizz15/LeetCode-v1/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vizz15/LeetCode-v1/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
@@ -208,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
