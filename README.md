@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vizz15/LeetCode-v1/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vizz15/LeetCode-v1/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vizz15/LeetCode-v1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vizz15/LeetCode-v1/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vizz15/LeetCode-v1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vizz15/LeetCode-v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/vizz15/LeetCode-v1/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vizz15/LeetCode-v1/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vizz15/LeetCode-v1/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vizz15/LeetCode-v1/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
