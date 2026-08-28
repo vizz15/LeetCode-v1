@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vizz15/LeetCode-v1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3931-check-adjacent-digit-differences](https://github.com/vizz15/LeetCode-v1/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vizz15/LeetCode-v1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
