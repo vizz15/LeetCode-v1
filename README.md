@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/vizz15/LeetCode-v1/tree/master/0940-distinct-subsequences-ii) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vizz15/LeetCode-v1/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vizz15/LeetCode-v1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
