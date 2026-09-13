@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vizz15/LeetCode-v1/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vizz15/LeetCode-v1/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/vizz15/LeetCode-v1/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/vizz15/LeetCode-v1/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vizz15/LeetCode-v1/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/vizz15/LeetCode-v1/tree/master/1386-cinema-seat-allocation) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vizz15/LeetCode-v1/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vizz15/LeetCode-v1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
