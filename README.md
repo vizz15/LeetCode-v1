@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vizz15/LeetCode-v1/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vizz15/LeetCode-v1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vizz15/LeetCode-v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vizz15/LeetCode-v1/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Queue
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vizz15/LeetCode-v1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vizz15/LeetCode-v1/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vizz15/LeetCode-v1/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vizz15/LeetCode-v1/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/vizz15/LeetCode-v1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vizz15/LeetCode-v1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vizz15/LeetCode-v1/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vizz15/LeetCode-v1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vizz15/LeetCode-v1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
