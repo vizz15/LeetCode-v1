@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vizz15/LeetCode-v1/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vizz15/LeetCode-v1/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vizz15/LeetCode-v1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vizz15/LeetCode-v1/tree/master/0409-longest-palindrome) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vizz15/LeetCode-v1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/vizz15/LeetCode-v1/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/vizz15/LeetCode-v1/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vizz15/LeetCode-v1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vizz15/LeetCode-v1/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vizz15/LeetCode-v1/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vizz15/LeetCode-v1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vizz15/LeetCode-v1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vizz15/LeetCode-v1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/vizz15/LeetCode-v1/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vizz15/LeetCode-v1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vizz15/LeetCode-v1/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vizz15/LeetCode-v1/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
